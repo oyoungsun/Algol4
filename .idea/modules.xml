@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algol4.iml" filepath="$PROJECT_DIR$/Algol4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kakao_2022p1/kakao_2022p1.iml" filepath="$PROJECT_DIR$/kakao_2022p1/kakao_2022p1.iml" />
       <module fileurl="file://$PROJECT_DIR$/p_1/p_1.iml" filepath="$PROJECT_DIR$/p_1/p_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/p_2/p_2.iml" filepath="$PROJECT_DIR$/p_2/p_2.iml" />
     </modules>
