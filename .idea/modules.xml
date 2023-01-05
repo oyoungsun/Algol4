@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/5014/5014.iml" filepath="$PROJECT_DIR$/5014/5014.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algol4.iml" filepath="$PROJECT_DIR$/Algol4.iml" />
       <module fileurl="file://$PROJECT_DIR$/kakao_2022p1/kakao_2022p1.iml" filepath="$PROJECT_DIR$/kakao_2022p1/kakao_2022p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kakao_2022p2/kakao_2022p2.iml" filepath="$PROJECT_DIR$/kakao_2022p2/kakao_2022p2.iml" />
       <module fileurl="file://$PROJECT_DIR$/p_1/p_1.iml" filepath="$PROJECT_DIR$/p_1/p_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/p_2/p_2.iml" filepath="$PROJECT_DIR$/p_2/p_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skill_check_p1/skill_check_p1.iml" filepath="$PROJECT_DIR$/skill_check_p1/skill_check_p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skill_check_p2/skill_check_p2.iml" filepath="$PROJECT_DIR$/skill_check_p2/skill_check_p2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skill_check_p3/skill_check_p3.iml" filepath="$PROJECT_DIR$/skill_check_p3/skill_check_p3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skill_check_p4/skill_check_p4.iml" filepath="$PROJECT_DIR$/skill_check_p4/skill_check_p4.iml" />
     </modules>
   </component>
 </project>
