@@ -32,7 +32,7 @@ public class Main {
             int now = q.poll();
             if(now==g){
                 System.out.println(visit[now]-1);
-                return
+                return;
             }
             if(now+u<=f){
                 if(visit[now+u]==0) {

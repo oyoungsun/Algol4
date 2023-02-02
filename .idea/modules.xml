@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/15591/15591.iml" filepath="$PROJECT_DIR$/15591/15591.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16928/16928.iml" filepath="$PROJECT_DIR$/16928/16928.iml" />
       <module fileurl="file://$PROJECT_DIR$/5014/5014.iml" filepath="$PROJECT_DIR$/5014/5014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5022/5022.iml" filepath="$PROJECT_DIR$/5022/5022.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algol4.iml" filepath="$PROJECT_DIR$/Algol4.iml" />
       <module fileurl="file://$PROJECT_DIR$/kakao_2022p1/kakao_2022p1.iml" filepath="$PROJECT_DIR$/kakao_2022p1/kakao_2022p1.iml" />
       <module fileurl="file://$PROJECT_DIR$/kakao_2022p2/kakao_2022p2.iml" filepath="$PROJECT_DIR$/kakao_2022p2/kakao_2022p2.iml" />
